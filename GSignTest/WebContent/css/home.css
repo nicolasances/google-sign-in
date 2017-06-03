@@ -1,0 +1,12 @@
+
+body {background-color: #B2DFDB;}
+
+#login {margin: 24px; text-align: center; font-size: 1.3em;}
+#login .welcome {font-size: 1.3em; font-family: Roboto; margin-bottom: 24px;}
+#login .text {font-size: 0.9em; color: #00695C;}
+
+#home {margin: 24px; text-align: center; font-size: 1.3em;}
+#home .welcome {font-size: 1.3em; font-family: Roboto; margin-bottom: 24px;}
+#home .text {font-size: 0.9em; color: #00695C;}
+
+#login img {margin-top: 24px;}
